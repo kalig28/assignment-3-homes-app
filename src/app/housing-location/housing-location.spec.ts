@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { HousingLocation } from './housing-location';
 
 describe('HousingLocation', () => {
@@ -21,3 +20,4 @@ describe('HousingLocation', () => {
     expect(component).toBeTruthy();
   });
 });
+
